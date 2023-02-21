@@ -32,7 +32,7 @@ If dont have node, download [here](https://nodejs.org/en/download/)
 
 #### Clone repository in folder.
 ```sh
-$ git clone https://
+$ git clone https://github.com/Delaylah/alpha-news.git
 
 ```
 #### Set file location as active directory in terminal:
